@@ -1,9 +1,16 @@
-# untuk checkout diletakkan pada frontend > user
-# app.jsx untuk frontend
-# app.js untuk backend
+# Test Payment User (Midtrans)
+1. untuk checkout.jsx diletakkan pada frontend > user
+2. app.jsx untuk frontend
+3. app(midtrans).js untuk backend
+4. jalankan backend
+5. jalankan frontend
+6. masuk ke http://localhost:5173/checkout
+7. Lakukan testing
 
-jalankan backend
-jalankan frontend
-
-masuk ke http://localhost:5173/checkout
+# Test Riwayat Pembayaran (Admin)
+1. app.js untuk backend
+2. untuk frontend import ManajemenPembayaran.jsx pada app.jsx(Frontend)
+3. jalankan backend 
+5. jalakan frontend
+6. masuk ke http://localhost:5173
 

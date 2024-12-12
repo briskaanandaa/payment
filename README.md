@@ -1,6 +1,6 @@
-untuk checkout diletakkan pada frontend > user
-app.jsx untuk frontend
-app.js untuk backend
+#untuk checkout diletakkan pada frontend > user
+##app.jsx untuk frontend
+##app.js untuk backend
 
 jalankan backend
 jalankan frontend

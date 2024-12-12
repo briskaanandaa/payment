@@ -1,4 +1,4 @@
-# Test Payment User (Midtrans)
+# Test Payment Midtrans (User)
 1. untuk checkout.jsx diletakkan pada frontend > user
 2. app.jsx untuk frontend
 3. app(midtrans).js untuk backend
